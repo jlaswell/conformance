@@ -1,0 +1,19 @@
+{
+    "name": "cloudevents/conformance",
+    "description": "CloudEvents conformance used for testing CloudEvents receivers.",
+    "type": "library",
+    "license": "Apache-2.0",
+    "support": {
+        "issues": "https://github.com/cloudevents/conformance/issues",
+        "source": "https://github.com/cloudevents/conformance"
+    },
+    "require": {
+        "php": "^7.4.15 || ^8.0.2"
+    },
+    "config": {
+        "preferred-install": "dist",
+        "sort-packages": true
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
